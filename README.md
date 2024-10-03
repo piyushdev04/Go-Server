@@ -44,7 +44,3 @@ Here’s the block diagram showing the interaction between the user, server, and
 
 - **Go**: Backend server handling HTTP requests and serving static files.
 - **HTML**: Frontend for the static pages and form submission.
-
-### License
-
-This project is open-source and available under the [MIT License](LICENSE).
